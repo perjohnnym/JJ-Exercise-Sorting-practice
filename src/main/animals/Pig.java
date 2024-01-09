@@ -26,7 +26,7 @@ public class Pig implements Comparable <Pig>{
 	public String getStatus(){
 		return status;
 	}
-	
+
 
 	@Override
 	public int compareTo(Pig o) {
